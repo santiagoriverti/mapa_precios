@@ -29,4 +29,3 @@ Cada punto representa una sucursal de supermercado. El color indica el costo del
 
 Santiago Riverti 
 ✉️ santiagoriverti@gmail.com
-🌐 [INECO](https://www.uade.edu.ar/sites/investigacion/instituto-de-economia-ineco/)
